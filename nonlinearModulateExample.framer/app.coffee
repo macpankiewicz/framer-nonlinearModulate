@@ -1,7 +1,7 @@
 # 'nonlinearModulate' module example project
 # by Marc Krenn, Dec. 13th, 2015 | marc.krenn@gmail.com | @marc_krenn
 
-# 'nonlinearModulate' extends 'Utils.modulate' with the ability to interpolate a value in a non-liniar way.
+# 'nonlinearModulate' extends 'Utils.modulate' with the ability to interpolate a value in a non-linear way.
 
 require "nonlinearModulate"
 
