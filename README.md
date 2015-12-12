@@ -4,7 +4,7 @@
 
 #### Demo
 
-![gif](http://i.giphy.com/3oEduEH7JgcM3Jh8sM.gif)
+![gif](http://i.giphy.com/3o8dp4wXUMBJSGpesE.gif)
 
 *Live Demo*: http://share.framerjs.com/qwpzkamldnc7/
 
